@@ -6,6 +6,8 @@
 
 [https://github.com/vietphan1995/game-station.git](https://github.com/vietphan1995/game-station.git)
 
+✉️ [Send to email: vietphan95@outlook.com](mailto:vietphan95@outlook.com?subject=register_idea:game-station_project&body=left_your_idea)
+
 Game Station is a software platform act as start page of gamer, this platform stores and indexes all of game titles in many platforms, many devices with contents follow, also bring best experience on your game devices.
 
 Game Station provides more game title contents like experience, demo, trailer videos, news, release/publish notes, events, promotion, … with notification in platform, in mailbox, …
@@ -15,6 +17,8 @@ Game Station suggests game titles fit with your interesting, experience, goes wi
 Game Station manages fan page for game company, artists, agency, game influencers. Game Station manages gaming livestream, push game social fan, game creator from these fan pages.
 
 ![image.png](image.png)
+
+.
 
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
