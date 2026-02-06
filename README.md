@@ -23,4 +23,4 @@ Game Station manages fan page for game company, artists, agency, game influencer
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://phantrungviet.notion.site/game-station-1b25e832d6ee80f1ae6cc5868049b8e0
+https://maianhcorporation.notion.site/game-station-1b25e832d6ee80f1ae6cc5868049b8e0
